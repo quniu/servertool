@@ -2,11 +2,11 @@
 #
 # Description: Auto test download & I/O speed script
 #
-# Copyright (C) 2015-2018 QuNiu
+# Copyright (C) 2015 - 2018 Teddysun <i@teddysun.com>
 #
-# Thanks:
-# @LookBack <admin@dwhd.org>
-# @teddysun https://teddysun.com/444.html
+# Thanks: LookBack <admin@dwhd.org>
+#
+# URL: https://teddysun.com/444.html
 #
 
 if  [ ! -e '/usr/bin/wget' ]; then
